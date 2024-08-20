@@ -4,7 +4,7 @@ A Python Wrapper of EMS API. There is also a R wrapper for EMS API. If you are i
 ## Branches
 
 * New work is completed in the `master` branch of this repository and may contain breaking changes. Pull requests should be made to this branch.
-* Old stable functionality exists in the `v0.2.1` branch and should never change except for minor fixes.
+* Old stable functionality exists in the `v0.2.1` branch and should never change, except for minor fixes.
 * Releases are publicly available on `PyPi` using semantic versioning.
 
 ## Installation
